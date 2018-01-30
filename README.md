@@ -90,9 +90,17 @@ individual worker.
 ## Pools Using This Software
 
 * https://pool.sumokoin.com
-* https://pool.sumokoin.ch
+* https://pool.sumokoin.
+* https://pool.cminerpool.com
 
 More pools can be found on [sumopools.com](https://www.sumopools.com)
+
+## Install WIN64
+
+* Install git from https://git-scm.com/download/win
+* Install LTS node.js from https://nodejs.org/en/
+* git clone https://github.com/mongrelx/cryptonote-sumokoin-pool.git
+* open cmd line window
 
 ## Usage
 
